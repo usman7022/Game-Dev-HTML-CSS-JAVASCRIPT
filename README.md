@@ -28,7 +28,7 @@ Clone the repository:
 
 git clone https://github.com/your-username/game-dev.git
 - cd game-dev
-Open index.html in your web browser.
+- Open index.html in your web browser.
 
 ## Figma-Link
 https://www.figma.com/design/FRKq2OYzkUHJrr2y0KTO1S/Responsive-Homepage?node-id=0-1&t=CoULqemUjVEoT9J2-0
